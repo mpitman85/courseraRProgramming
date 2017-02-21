@@ -1,1 +1,2 @@
-#Test to see if I can get git to work
+#File for testing out and learning code for R Programming Coursera course in the Data Science Specialization
+
